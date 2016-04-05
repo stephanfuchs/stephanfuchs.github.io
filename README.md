@@ -1,1 +1,0 @@
-# stephanfuchs.github.io
