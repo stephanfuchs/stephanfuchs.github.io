@@ -1,3 +1,4 @@
+markdown: kramdown
 defaults:
   -
     scope:
@@ -5,5 +6,17 @@ defaults:
     values:
       layout: 'redirect'
       sitemap: false
+
+kramdown:
+  auto_ids: true
+  entity_output: as_char
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
 gems:
   - jekyll-redirect-from
+
+# Data.
+comments: true
+email: sfuchs@fastmail.com
+github: https://github.com/stephanfuchs
+name: Stephan Fuchs
