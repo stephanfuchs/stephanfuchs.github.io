@@ -1,2 +1,16 @@
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'default'
+      meta_title: true
+      social_media: false
+  -
+    scope:
+      path: 'r'
+    values:
+      layout: 'redirect'
+      sitemap: false
 gems:
   - jekyll-redirect-from
