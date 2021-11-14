@@ -1,3 +1,3 @@
 ---
-redir_to: 'https://gist.github.com/stephanfuchs/29dac379be79bb05fd107840935eb14e'
+redir_to: 'https://gist.github.com/stephanfuchs/a9800430de638dd5f1ee2f6b653b695f'
 ---
